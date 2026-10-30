@@ -1,0 +1,10 @@
+package com.usil.scooter;
+
+import com.usil.scooter.view.MainFrame;
+
+public class Main {
+
+    public static void main(String[] args) {
+        java.awt.EventQueue.invokeLater(() -> new MainFrame().setVisible(true));
+    }
+}

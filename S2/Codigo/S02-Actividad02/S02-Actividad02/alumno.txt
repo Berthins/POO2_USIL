@@ -1,0 +1,102 @@
+Programacion Orientada a Objetos
+Algoritmica I
+Algoritmica II
+Estructura de Datos
+Base de Datos I
+Base de Datos II
+Matematica Basica
+Matematica Discreta
+Calculo Diferencial
+Calculo Integral
+Algebra Lineal
+Estadistica Descriptiva
+Estadistica Inferencial
+Fisica I
+Fisica II
+Quimica General
+Introduccion a la Ingenieria
+Fundamentos de Computacion
+Arquitectura de Computadoras
+Sistemas Operativos
+Redes de Computadoras
+Redes Avanzadas
+Seguridad Informatica
+Criptografia Aplicada
+Ingenieria de Software I
+Ingenieria de Software II
+Analisis y Diseno de Sistemas
+Metodologias Agiles
+Gestion de Proyectos de TI
+Calidad de Software
+Pruebas de Software
+Arquitectura de Software
+Patrones de Diseno
+Desarrollo Web I
+Desarrollo Web II
+Desarrollo de Aplicaciones Moviles
+Programacion en Java
+Programacion en Python
+Programacion en C
+Programacion en C Sharp
+Programacion Funcional
+Programacion Concurrente
+Compiladores
+Teoria de la Computacion
+Automatas y Lenguajes Formales
+Investigacion de Operaciones
+Simulacion de Sistemas
+Inteligencia Artificial
+Aprendizaje Automatico
+Aprendizaje Profundo
+Vision por Computadora
+Procesamiento de Lenguaje Natural
+Mineria de Datos
+Ciencia de Datos
+Big Data
+Analitica de Negocios
+Inteligencia de Negocios
+Almacenes de Datos
+Computacion en la Nube
+Virtualizacion y Contenedores
+DevOps
+Integracion Continua
+Internet de las Cosas
+Sistemas Embebidos
+Robotica
+Graficos por Computadora
+Interaccion Humano Computadora
+Diseno de Interfaces de Usuario
+Experiencia de Usuario
+Computacion Grafica Avanzada
+Sistemas Distribuidos
+Computacion Paralela
+Microservicios
+Servicios Web y APIs
+Comercio Electronico
+Sistemas de Informacion Gerencial
+Auditoria de Sistemas
+Etica Profesional
+Legislacion Informatica
+Contabilidad General
+Economia General
+Microeconomia
+Macroeconomia
+Finanzas Empresariales
+Marketing Digital
+Administracion General
+Gestion del Talento Humano
+Emprendimiento e Innovacion
+Formulacion de Proyectos
+Metodologia de la Investigacion
+Taller de Tesis I
+Taller de Tesis II
+Comunicacion Oral y Escrita
+Redaccion Academica
+Ingles I
+Ingles II
+Ingles III
+Ingles IV
+Realidad Nacional
+Responsabilidad Social
+Liderazgo y Trabajo en Equipo
+Practicas Preprofesionales

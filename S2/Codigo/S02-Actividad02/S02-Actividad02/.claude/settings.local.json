@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NF{n++} END{print \"no vacias:\", n}' alumno.txt)"
+    ]
+  }
+}

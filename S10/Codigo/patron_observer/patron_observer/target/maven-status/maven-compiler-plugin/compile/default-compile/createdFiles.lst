@@ -1,0 +1,6 @@
+com\usil\observer\SmsNotifier.class
+com\usil\observer\Observer.class
+com\usil\Patron_observer.class
+com\usil\observer\EmailNotifier.class
+com\usil\observer\Subject.class
+com\usil\observer\Wallet.class

@@ -1,0 +1,8 @@
+com\usil\report\EmpleadoReport.class
+com\usil\model\Empleado.class
+com\usil\repository\EmpleadoRepository.class
+com\usil\PrincipiosSOLID.class
+com\usil\model\Desarrollador.class
+com\usil\model\Practicante.class
+com\usil\model\Gerente.class
+com\usil\service\EmpleadoService.class
